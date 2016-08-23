@@ -7,9 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D4A82561D6BE9C1009643F3 /* MainTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D4A82551D6BE9C1009643F3 /* MainTabBarViewController.m */; };
+		0D4A825E1D6BE9F8009643F3 /* XkBageButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D4A82591D6BE9F8009643F3 /* XkBageButton.m */; };
+		0D4A825F1D6BE9F8009643F3 /* XkTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D4A825B1D6BE9F8009643F3 /* XkTabBar.m */; };
+		0D4A82601D6BE9F8009643F3 /* XkTabBarButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D4A825D1D6BE9F8009643F3 /* XkTabBarButton.m */; };
 		0DB402121D6AF2D5002FA46C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DB402111D6AF2D5002FA46C /* main.m */; };
 		0DB402151D6AF2D5002FA46C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DB402141D6AF2D5002FA46C /* AppDelegate.m */; };
-		0DB402181D6AF2D5002FA46C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DB402171D6AF2D5002FA46C /* ViewController.m */; };
 		0DB4021B1D6AF2D5002FA46C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DB402191D6AF2D5002FA46C /* Main.storyboard */; };
 		0DB4021D1D6AF2D5002FA46C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DB4021C1D6AF2D5002FA46C /* Assets.xcassets */; };
 		0DB402201D6AF2D5002FA46C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DB4021E1D6AF2D5002FA46C /* LaunchScreen.storyboard */; };
@@ -39,12 +42,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0D4A82541D6BE9C1009643F3 /* MainTabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainTabBarViewController.h; sourceTree = "<group>"; };
+		0D4A82551D6BE9C1009643F3 /* MainTabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainTabBarViewController.m; sourceTree = "<group>"; };
+		0D4A82581D6BE9F8009643F3 /* XkBageButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XkBageButton.h; sourceTree = "<group>"; };
+		0D4A82591D6BE9F8009643F3 /* XkBageButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XkBageButton.m; sourceTree = "<group>"; };
+		0D4A825A1D6BE9F8009643F3 /* XkTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XkTabBar.h; sourceTree = "<group>"; };
+		0D4A825B1D6BE9F8009643F3 /* XkTabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XkTabBar.m; sourceTree = "<group>"; };
+		0D4A825C1D6BE9F8009643F3 /* XkTabBarButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XkTabBarButton.h; sourceTree = "<group>"; };
+		0D4A825D1D6BE9F8009643F3 /* XkTabBarButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XkTabBarButton.m; sourceTree = "<group>"; };
 		0DB4020D1D6AF2D5002FA46C /* XKTabBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XKTabBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DB402111D6AF2D5002FA46C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		0DB402131D6AF2D5002FA46C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0DB402141D6AF2D5002FA46C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		0DB402161D6AF2D5002FA46C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		0DB402171D6AF2D5002FA46C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		0DB4021A1D6AF2D5002FA46C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0DB4021C1D6AF2D5002FA46C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DB4021F1D6AF2D5002FA46C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -90,6 +99,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0D4A82571D6BE9D7009643F3 /* Tool */ = {
+			isa = PBXGroup;
+			children = (
+				0D4A82581D6BE9F8009643F3 /* XkBageButton.h */,
+				0D4A82591D6BE9F8009643F3 /* XkBageButton.m */,
+				0D4A825A1D6BE9F8009643F3 /* XkTabBar.h */,
+				0D4A825B1D6BE9F8009643F3 /* XkTabBar.m */,
+				0D4A825C1D6BE9F8009643F3 /* XkTabBarButton.h */,
+				0D4A825D1D6BE9F8009643F3 /* XkTabBarButton.m */,
+			);
+			name = Tool;
+			sourceTree = "<group>";
+		};
 		0DB402041D6AF2D5002FA46C = {
 			isa = PBXGroup;
 			children = (
@@ -115,8 +137,8 @@
 			children = (
 				0DB402131D6AF2D5002FA46C /* AppDelegate.h */,
 				0DB402141D6AF2D5002FA46C /* AppDelegate.m */,
-				0DB402161D6AF2D5002FA46C /* ViewController.h */,
-				0DB402171D6AF2D5002FA46C /* ViewController.m */,
+				0D4A82541D6BE9C1009643F3 /* MainTabBarViewController.h */,
+				0D4A82551D6BE9C1009643F3 /* MainTabBarViewController.m */,
 				0DB4024F1D6AFB48002FA46C /* VC */,
 				0DB402191D6AF2D5002FA46C /* Main.storyboard */,
 				0DB4021C1D6AF2D5002FA46C /* Assets.xcassets */,
@@ -164,6 +186,7 @@
 				0DB402481D6AFB44002FA46C /* CCCViewController.m */,
 				0DB402491D6AFB44002FA46C /* DDDViewController.h */,
 				0DB4024A1D6AFB44002FA46C /* DDDViewController.m */,
+				0D4A82571D6BE9D7009643F3 /* Tool */,
 			);
 			name = VC;
 			sourceTree = "<group>";
@@ -300,9 +323,12 @@
 			files = (
 				0DB4024C1D6AFB44002FA46C /* BBBViewController.m in Sources */,
 				0DB4024B1D6AFB44002FA46C /* AAAViewController.m in Sources */,
-				0DB402181D6AF2D5002FA46C /* ViewController.m in Sources */,
+				0D4A82601D6BE9F8009643F3 /* XkTabBarButton.m in Sources */,
 				0DB402151D6AF2D5002FA46C /* AppDelegate.m in Sources */,
+				0D4A825F1D6BE9F8009643F3 /* XkTabBar.m in Sources */,
 				0DB4024D1D6AFB44002FA46C /* CCCViewController.m in Sources */,
+				0D4A82561D6BE9C1009643F3 /* MainTabBarViewController.m in Sources */,
+				0D4A825E1D6BE9F8009643F3 /* XkBageButton.m in Sources */,
 				0DB4024E1D6AFB44002FA46C /* DDDViewController.m in Sources */,
 				0DB402121D6AF2D5002FA46C /* main.m in Sources */,
 			);
@@ -530,6 +556,7 @@
 				0DB4023C1D6AF2D6002FA46C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0DB4023D1D6AF2D6002FA46C /* Build configuration list for PBXNativeTarget "XKTabBarTests" */ = {
 			isa = XCConfigurationList;
@@ -538,6 +565,7 @@
 				0DB4023F1D6AF2D6002FA46C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0DB402401D6AF2D6002FA46C /* Build configuration list for PBXNativeTarget "XKTabBarUITests" */ = {
 			isa = XCConfigurationList;
@@ -546,6 +574,7 @@
 				0DB402421D6AF2D6002FA46C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

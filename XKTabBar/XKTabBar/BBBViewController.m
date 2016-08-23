@@ -17,19 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    self.view.backgroundColor = [UIColor orangeColor];
-    
-    
-    UIButton * button = [UIButton buttonWithType:UIButtonTypeContactAdd];
-    button.frame = CGRectMake(100, 100, 110, 110);
-    [button addTarget:self action:@selector(click) forControlEvents:UIControlEventTouchUpInside];
-    [self.view addSubview:button];
-    
-}
-
-- (void)click
-{
-    [[NSNotificationCenter defaultCenter] postNotificationName:@"aaa" object:self];
+    self.view.backgroundColor = [UIColor whiteColor];
 }
 
 - (void)didReceiveMemoryWarning {
