@@ -16,17 +16,24 @@
     
     self.customTabBar.tabBarButtonType = NormalTabBarButton;
     
+  ![putong](http://a2.qpic.cn/psb?/V13xP0Fc3bLGEW/QmJC09AGdN4y8v9dLKZ0*mMjli261us3n2WQh7r4gd0!/b/dG8BAAAAAAAA&bo=eQGnAAAAAAADB*0!&rf=viewer_4)
+    
   2.类似微博带发布按钮的TabBar
     
     self.customTabBar.tabBarButtonType = SpecialTabBarButton;
+  
+  ![teshu](http://a1.qpic.cn/psb?/V13xP0Fc3bLGEW/nV7r8VQzMYhhdALOL4nhtDkJKcm6E*qN24vKBA3kSlA!/b/dAsBAAAAAAAA&bo=dgGpAAAAAAADAPs!&rf=viewer_4)
 
-  具体简单实用的方法demo里都有
+  3.TabBar的bage红点、数字都封装好了可以自己调整大小样式
+  ![lingyige](http://a2.qpic.cn/psb?/V13xP0Fc3bLGEW/NiS91S1MC3qvhyDtJg2VpMkrpyr74FUpLxuW8N.nApA!/b/dI0BAAAAAAAA&bo=uQCMAAAAAAADABA!&rf=viewer_4)
+  
+  具体简单实用的好用方法demo里都有
 
 
-![putong](http://a2.qpic.cn/psb?/V13xP0Fc3bLGEW/QmJC09AGdN4y8v9dLKZ0*mMjli261us3n2WQh7r4gd0!/b/dG8BAAAAAAAA&bo=eQGnAAAAAAADB*0!&rf=viewer_4)
 
 
-![teshu](http://a1.qpic.cn/psb?/V13xP0Fc3bLGEW/nV7r8VQzMYhhdALOL4nhtDkJKcm6E*qN24vKBA3kSlA!/b/dAsBAAAAAAAA&bo=dgGpAAAAAAADAPs!&rf=viewer_4)
 
 
-![lingyige](http://a2.qpic.cn/psb?/V13xP0Fc3bLGEW/NiS91S1MC3qvhyDtJg2VpMkrpyr74FUpLxuW8N.nApA!/b/dI0BAAAAAAAA&bo=uQCMAAAAAAADABA!&rf=viewer_4)
+
+
+
