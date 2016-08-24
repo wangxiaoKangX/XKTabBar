@@ -20,4 +20,4 @@
     
     self.customTabBar.tabBarButtonType = SpecialTabBarButton;
 
-  
+  具体简单实用的方法demo里都有
