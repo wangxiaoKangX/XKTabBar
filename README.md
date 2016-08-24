@@ -22,4 +22,11 @@
 
   具体简单实用的方法demo里都有
 
-![image](http://b29.photo.store.qq.com/psu?/010d259a-214f-4fdd-9e3b-a51b0aac91fa/xSxxewtxa6bg5rM9F9lg4CTDB513WVsezVHInr91jzo!/b/YYUetBbMJgAAYlrlXBG4mAAA&a=38&b=29&bo=wAHPAQAAAAABBCw!&rf=viewer_4)
+
+![putong](http://a2.qpic.cn/psb?/V13xP0Fc3bLGEW/QmJC09AGdN4y8v9dLKZ0*mMjli261us3n2WQh7r4gd0!/b/dG8BAAAAAAAA&bo=eQGnAAAAAAADB*0!&rf=viewer_4)
+
+
+![teshu](http://a1.qpic.cn/psb?/V13xP0Fc3bLGEW/nV7r8VQzMYhhdALOL4nhtDkJKcm6E*qN24vKBA3kSlA!/b/dAsBAAAAAAAA&bo=dgGpAAAAAAADAPs!&rf=viewer_4)
+
+
+![lingyige](http://a2.qpic.cn/psb?/V13xP0Fc3bLGEW/NiS91S1MC3qvhyDtJg2VpMkrpyr74FUpLxuW8N.nApA!/b/dI0BAAAAAAAA&bo=uQCMAAAAAAADABA!&rf=viewer_4)
