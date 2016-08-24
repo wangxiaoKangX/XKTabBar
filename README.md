@@ -21,3 +21,5 @@
     self.customTabBar.tabBarButtonType = SpecialTabBarButton;
 
   具体简单实用的方法demo里都有
+
+![image](http://b29.photo.store.qq.com/psu?/010d259a-214f-4fdd-9e3b-a51b0aac91fa/xSxxewtxa6bg5rM9F9lg4CTDB513WVsezVHInr91jzo!/b/YYUetBbMJgAAYlrlXBG4mAAA&a=38&b=29&bo=wAHPAQAAAAABBCw!&rf=viewer_4)
