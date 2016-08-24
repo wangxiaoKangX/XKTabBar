@@ -25,6 +25,7 @@
   ![teshu](http://a1.qpic.cn/psb?/V13xP0Fc3bLGEW/nV7r8VQzMYhhdALOL4nhtDkJKcm6E*qN24vKBA3kSlA!/b/dAsBAAAAAAAA&bo=dgGpAAAAAAADAPs!&rf=viewer_4)
 
   3.TabBar的bage红点、数字都封装好了可以自己调整大小样式
+  
   ![lingyige](http://a2.qpic.cn/psb?/V13xP0Fc3bLGEW/NiS91S1MC3qvhyDtJg2VpMkrpyr74FUpLxuW8N.nApA!/b/dI0BAAAAAAAA&bo=uQCMAAAAAAADABA!&rf=viewer_4)
   
   具体简单实用的好用方法demo里都有
